@@ -63,13 +63,12 @@ Developed a hybrid data pipeline integrating **PostgreSQL** for structured query
 
 > Visualizes the difference in concavity between benign and malignant tumors
 
-![Concavity Mean by Diagnosis](Concavity Mean by diagnosis)
+![Concavity Mean by Diagnosis](concavity_mean_by_diagnosis.png)
 
 ### 🔥 Radius and Area Mean by diagnosis
 
-![Radius and Area Mean by diagnosis](Radius and Area Mean by diagnosis)
+![Radius and Area Mean by diagnosis](radius_area_mean_by_diagnosis.png)
 
-> Add images to the `/images/` folder and replace filenames accordingly.
 
 ---
 
