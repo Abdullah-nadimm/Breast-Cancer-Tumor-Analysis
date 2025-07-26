@@ -63,11 +63,11 @@ Developed a hybrid data pipeline integrating **PostgreSQL** for structured query
 
 > Visualizes the difference in concavity between benign and malignant tumors
 
-![Concavity Mean by Diagnosis](images/concavity-diagnosis.png)
+![Concavity Mean by Diagnosis](Concavity Means by Diagnosis)
 
 ### 🔥 Heatmap of Feature Correlation
 
-![Correlation Heatmap](images/correlation-heatmap.png)
+![Radius and Area Mean by diagnosis](images/correlation-heatmap.png)
 
 > Add images to the `/images/` folder and replace filenames accordingly.
 
